@@ -1,6 +1,6 @@
 # Egglyze
 
-Bangkit Capstone Project C22-PS229
+Bangkit Capstone Project C242-PS442
 
 ## Overview
 
